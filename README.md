@@ -72,3 +72,7 @@ Precisamos ter uma classe que herde de PHPUnit\Framework\TestCase e tenha seu no
 Uma classe que contenha testes de unidade, além de herdar da classe padrão do PHPUnit, deve ter seu nome terminado em Test. É uma convenção que a classe de teste tenha o nome da classe que ela vai testar, além do sufixo Test. Por exemplo: classe a testar: Avaliador; classe de teste: AvaliadorTest.
 
 ---
+
+[PHPUnit - Asserções](https://phpunit.readthedocs.io/en/8.5/assertions.html)
+
+---
