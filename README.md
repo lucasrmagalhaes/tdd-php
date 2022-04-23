@@ -39,3 +39,8 @@ vendor/bin/phpunit --version
 ```
 
 ---
+
+**Qual o principal tipo de teste automatizado o PHPUnit nos ajuda a escrever?** <br>
+Testes de unidade. O PHPUnit já vem com tudo que é necessário para realizar testes de unidade. Testes de unidade testam a menor unidade possível de um código. Um bom exemplo disso é um método. Ou seja, um teste de unidade deve testar o mínimo de código possível por vez. Isso ficará mais claro durante o andamento do treinamento.
+
+---
