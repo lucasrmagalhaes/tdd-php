@@ -19,3 +19,8 @@ composer dupmpautoload
 Evitar erros humanos e agilizar o processo de testes da aplicação. Testar manualmente é um processo suscetível a erros. Podemos simplesmente nos esquecer de realizar determinada ação, validar os dados de forma errada, etc. Além disso, testes manuais são demorados. Com testes automatizados, nós ganhamos muita velocidade e confiabilidade em nosso processo.
 
 ---
+
+[Arrange-Act-Assert](http://wiki.c2.com/?ArrangeActAssert) <br>
+[Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html)
+
+---
