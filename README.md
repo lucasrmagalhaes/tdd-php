@@ -103,16 +103,24 @@ Com os data providers, nós conseguimos fornecer conjuntos diferentes de dados p
 **Fixtures** <br>
 PHPUnit nos fornece as fixtures. São métodos que vão ser executados em momentos específicos.
 
-```public static function setUpBeforeClass(): void```
+```public static function setUpBeforeClass(): void``` <br>
 Método executado uma vez só, antes de todos os testes da classe.
 
-```public function setUp(): void```
+```public function setUp(): void``` <br>
 Método executado antes de cada teste da classe.
 
-```public function tearDown(): void```
+```public function tearDown(): void``` <br>
 Método executado após cada teste da classe.
 
-```public static function tearDownAfterClass(): void```
+```public static function tearDownAfterClass(): void``` <br>
 Método executado uma vez só, após todos os testes da classe.
 
 ---
+
+[phpunit.xml](https://phpunit.readthedocs.io/pt_BR/latest/configuration.html)
+
+```
+vendor/bin/phpunit
+```
+
+----
