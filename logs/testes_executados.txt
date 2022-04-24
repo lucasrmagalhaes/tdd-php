@@ -14,4 +14,5 @@ Alura\Leilao\Tests\Service\Avaliador
  [x] Avaliador deve buscar 3 maiores valores ordem-aleatoria
  [x] Avaliador deve buscar 3 maiores valores ordem-crescente
  [x] Avaliador deve buscar 3 maiores valores ordem-decrescente
+ [ ] Leilao vazio nao pode ser avaliado
 
