@@ -76,3 +76,14 @@ Uma classe que contenha testes de unidade, além de herdar da classe padrão do 
 [PHPUnit - Asserções](https://phpunit.readthedocs.io/en/8.5/assertions.html)
 
 ---
+
+**Quais técnicas são comuns para identificar o que testar?** <br>
+Análise de valores de fronteira. <br>
+Utilizando esta técnica, além de identificar as classes de equivalência, testamos os valores exatamente na borda de cada uma delas.
+
+Classes de equivalência. <br>
+Podemos identificar classes de equivalência para entender quais dados deverão ser utilizados para montar os cenários de teste.
+
+[Análise de valor limite e Particionamento de Equivalência](http://testwarequality.blogspot.com/p/tenicas-de-teste.html)
+
+---
