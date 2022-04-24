@@ -2,6 +2,7 @@ Alura\Leilao\Tests\Model\Leilao
  [x] Leilao nao deve receber lances repetidos
  [x] Leilao deve receber lances 2-lances
  [x] Leilao deve receber lances 1-lance
+ [x] Leilao nao deve aceitar mais de 5 lances por usuario
 
 Alura\Leilao\Tests\Service\Avaliador
  [x] Avaliador deve encontrar o maior valor de lances ordem-aleatoria
