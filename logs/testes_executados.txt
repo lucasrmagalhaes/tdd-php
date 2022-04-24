@@ -1,3 +1,7 @@
+Alura\Leilao\Tests\Model\Leilao
+ [x] Leilao deve receber lances 2-lances
+ [x] Leilao deve receber lances 1-lance
+
 Alura\Leilao\Tests\Service\Avaliador
  [x] Avaliador deve encontrar o maior valor de lances ordem-aleatoria
  [x] Avaliador deve encontrar o maior valor de lances ordem-crescente
@@ -8,3 +12,4 @@ Alura\Leilao\Tests\Service\Avaliador
  [x] Avaliador deve buscar 3 maiores valores ordem-aleatoria
  [x] Avaliador deve buscar 3 maiores valores ordem-crescente
  [x] Avaliador deve buscar 3 maiores valores ordem-decrescente
+
