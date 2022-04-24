@@ -1,4 +1,5 @@
 Alura\Leilao\Tests\Model\Leilao
+ [x] Leilao nao deve receber lances repetidos
  [x] Leilao deve receber lances 2-lances
  [x] Leilao deve receber lances 1-lance
 
