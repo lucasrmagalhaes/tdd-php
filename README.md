@@ -93,3 +93,9 @@ O número de itens na lista e todo o seu conteúdo, se possível. <br>
 Além de verificar o tamanho da lista, precisamos verificar o seu conteúdo. Claro que em listas muito grandes, isso se torna muito difícil e verboso, mas sempre que possível, devemos garantir que o conteúdo é o esperado, de acordo com a regra que o código deve atender.
 
 ---
+
+**Como podemos separar os dados necessários para testar do teste em si?** <br>
+Através de data providers que o PHPUnit oferece. <br>
+Com os data providers, nós conseguimos fornecer conjuntos diferentes de dados para o mesmo teste.
+
+---
