@@ -133,6 +133,9 @@ Caso uma refatoração quebre um código, os testes irão nos dizer imediatament
 
 TDD, significa Test Driven Development, ou seja, desenvolvimento guiado a testes.
 
-![TDD Cycle]()
+![TDD Cycle](https://github.com/lucasrmagalhaes/tdd-php/blob/main/assets/img/tdd.jpg)
+
+[TDD - Caelum](https://tdd.caelum.com.br/) <br>
+[Test-Driven Development - Teste e Design no Mundo Real com PHP](https://www.casadocodigo.com.br/pages/sumario-tdd-php)
 
 ---
