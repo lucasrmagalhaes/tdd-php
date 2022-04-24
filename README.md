@@ -124,3 +124,9 @@ vendor/bin/phpunit
 ```
 
 ----
+
+**Quais as vantagens dos testes automatizados, quando se trata de refatoração?** <br>
+Os testes nos dão um feedback muito rápido de que o nosso código continua funcionando após refatorar. <br>
+Caso uma refatoração quebre um código, os testes irão nos dizer imediatamente, facilitando a correção. Ao refatorar um código testado, temos a segurança de que não estamos gerando um comportamento indesejado.
+
+---
