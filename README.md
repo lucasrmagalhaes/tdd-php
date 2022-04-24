@@ -130,3 +130,9 @@ Os testes nos dão um feedback muito rápido de que o nosso código continua fun
 Caso uma refatoração quebre um código, os testes irão nos dizer imediatamente, facilitando a correção. Ao refatorar um código testado, temos a segurança de que não estamos gerando um comportamento indesejado.
 
 ---
+
+TDD, significa Test Driven Development, ou seja, desenvolvimento guiado a testes.
+
+![TDD Cycle]()
+
+---
