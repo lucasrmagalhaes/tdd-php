@@ -87,3 +87,9 @@ Podemos identificar classes de equivalência para entender quais dados deverão 
 [Análise de valor limite e Particionamento de Equivalência](http://testwarequality.blogspot.com/p/tenicas-de-teste.html)
 
 ---
+
+**O que devemos testar quando tivermos listas (ou arrays) de dados?** <br>
+O número de itens na lista e todo o seu conteúdo, se possível. <br>
+Além de verificar o tamanho da lista, precisamos verificar o seu conteúdo. Claro que em listas muito grandes, isso se torna muito difícil e verboso, mas sempre que possível, devemos garantir que o conteúdo é o esperado, de acordo com a regra que o código deve atender.
+
+---
