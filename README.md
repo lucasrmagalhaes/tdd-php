@@ -139,3 +139,10 @@ TDD, significa Test Driven Development, ou seja, desenvolvimento guiado a testes
 [Test-Driven Development - Teste e Design no Mundo Real com PHP](https://www.casadocodigo.com.br/pages/sumario-tdd-php)
 
 ---
+
+**Foi falado que utilizar os blocos try catch não é a melhor solução para testar um código que lança exceção.** <br> 
+**Por que você acha que esta abordagem não é interessante?** <br>
+Porque, além de diminuirmos o número de linhas, deixamos mais explícita a nossa verificação de exceção esperada. <br>
+O código sugerido pelo PHPUnit para testar código que lança exceção faz com que o nosso teste fique mais explícito e legível do que se utilizássemos try catch.
+
+---
