@@ -146,3 +146,9 @@ Porque, além de diminuirmos o número de linhas, deixamos mais explícita a nos
 O código sugerido pelo PHPUnit para testar código que lança exceção faz com que o nosso teste fique mais explícito e legível do que se utilizássemos try catch.
 
 ---
+
+**Já que o try catch não é a solução, como podemos garantir que uma exceção é lançada em determinado teste?** <br>
+Através do método expectException. <br>
+O método expectException recebe por parâmetro a string contendo a classe da exceção que deverá ser lançada durante a execução do teste. Além disso, podemos também garantir uma mensagem específica, com o método expectExceptionMessage.
+
+---
